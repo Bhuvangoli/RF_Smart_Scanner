@@ -583,7 +583,3 @@ This project is an academic/research simulation and demonstration system. It is 
 Developed as part of the **Smart India Hackathon (SIH)** project.
 
 ---
-
-## License
-
-Add the project's applicable license here before publishing the repository.
