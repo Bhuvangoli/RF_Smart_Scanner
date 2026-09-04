@@ -1,0 +1,1 @@
+{"simulation_id": "run-bcbf6b50", "timestamp": 0, "receiver": {"band_id": 1, "dwell_ms": 100}, "observation": {"detected": false, "signal_strength_db": null}, "outcome": {"ground_truth_active": false, "emitter_ids": []}}

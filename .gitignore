@@ -1,0 +1,138 @@
+# =========================================================
+# Python
+# =========================================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Type check / lint caches
+.mypy_cache/
+.pyright/
+.ruff_cache/
+
+# =========================================================
+# Environment / Secrets
+# =========================================================
+
+.env
+.env.*
+!.env.example
+
+# Local configuration
+*.local
+
+# =========================================================
+# RF Simulator
+# =========================================================
+
+RFD-Simulator-complete/.venv/
+RFD-Simulator-complete/**/__pycache__/
+RFD-Simulator-complete/**/*.pyc
+
+# Logs
+RFD-Simulator-complete/**/*.log
+RFD-Simulator-complete/logs/
+
+# =========================================================
+# Dashboard Backend
+# =========================================================
+
+dashboard/backend/.venv/
+dashboard/backend/**/__pycache__/
+dashboard/backend/**/*.pyc
+
+# Logs
+dashboard/backend/**/*.log
+dashboard/backend/logs/
+
+# =========================================================
+# Dashboard Frontend / Node
+# =========================================================
+
+dashboard/frontend/node_modules/
+dashboard/frontend/dist/
+dashboard/frontend/.vite/
+
+# npm logs
+dashboard/frontend/npm-debug.log*
+dashboard/frontend/yarn-debug.log*
+dashboard/frontend/yarn-error.log*
+dashboard/frontend/pnpm-debug.log*
+
+# =========================================================
+# IDE / Editors
+# =========================================================
+
+.vscode/
+.idea/
+
+# VS Code local settings
+*.code-workspace
+
+# Visual Studio
+.vs/
+
+# =========================================================
+# OS generated files
+# =========================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================================================
+# Temporary files
+# =========================================================
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# =========================================================
+# Python local databases / runtime files
+# =========================================================
+
+*.sqlite
+*.sqlite3
+*.db
+
+# =========================================================
+# Generated reports / test output
+# =========================================================
+
+htmlcov/
+coverage.xml
+*.coverage
+
+# =========================================================
+# Secrets / certificates
+# =========================================================
+
+*.pem
+*.key
+*.p12
+*.pfx

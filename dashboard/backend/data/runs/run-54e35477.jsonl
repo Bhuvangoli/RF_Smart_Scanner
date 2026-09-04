@@ -1,0 +1,1 @@
+{"timestamp": 0, "receiver_band": 1, "dwell_ms": 100, "detected": false, "signal_strength_db": -90.0, "ground_truth_active": false, "emitter_ids": [], "prediction": 0.418, "confidence": 0.856, "next_band": 4, "decision_source": "ai_engine", "result": "miss", "reward": -0.1}
