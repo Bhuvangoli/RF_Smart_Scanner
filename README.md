@@ -128,7 +128,7 @@ Python 3.12 is recommended because the backend dependencies were configured and 
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Bhuvangoli/RF_Smart_Scanner.git
+git clone https://github.com/Bhuvangoli/RF_Smart_Scanner.git 
 cd SIH
 ```
 
